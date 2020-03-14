@@ -1,0 +1,3 @@
+* funnify.jks --> id & pw "funnify"
+* facebook hash: keytool -exportcert -alias androiddebugkey -keystore "C:\Users\nsl\funnify.jks" | "C:\Program Files\openssl-0.9.8k\bin\openssl" sha1 -binary | "C:\Program Files\openssl-0.9.8k\bin\openssl" base64
+  value: xSLzBBuLJunOQPB89rtzM54FXx4=

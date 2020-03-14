@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Funnify</string>
+
+    <string name="funnify_grpc_server_host">165.246.42.172</string>
+    <string name="funnify_grpc_server_port">50051</string>
+
+    <string name="facebook_app_id">201440530956345</string>
+    <string name="fb_login_protocol_scheme">fb201440530956345</string>
+</resources>

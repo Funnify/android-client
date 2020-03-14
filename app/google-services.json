@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "750835935495",
+    "firebase_url": "https://funnify-app.firebaseio.com",
+    "project_id": "funnify-app",
+    "storage_bucket": "funnify-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750835935495:android:a60a17e82c90e921443da2",
+        "android_client_info": {
+          "package_name": "com.funnify.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750835935495-0afpr2mg5en9h7oh9s7ph6bbkssm86kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funnify.app",
+            "certificate_hash": "bf816983b671f4653076d05704103cdaa62bab27"
+          }
+        },
+        {
+          "client_id": "750835935495-2mc7apul2pjfsreheknem56qe7mv4fc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMrkC-bwAlN-V16wpEgL7oO_SKKzYf3pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750835935495-2mc7apul2pjfsreheknem56qe7mv4fc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

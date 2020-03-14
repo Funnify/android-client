@@ -1,0 +1,26 @@
+syntax = "proto3";
+option java_package = "com.funnify.app";
+
+
+enum AuthProvider {
+    GOOGLE = 0;
+    FACEBOOK = 1;
+}
+
+message Result {
+    bool success = 1;
+}
+
+message AuthenticateRequest {
+    string idToken = 1;
+    AuthProvider provider = 2;
+}
+
+message AuthenticateResponse {
+    Result result = 1;
+    string sessionKey = 2;
+}
+
+service FunnifyService {
+    rpc authenticate (AuthenticateRequest) returns (AuthenticateResponse);
+}
