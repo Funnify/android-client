@@ -3,4 +3,11 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="grey">#ccc</color>
+    <color name="bright_grey">#E0E1E4</color>
+
+    <color name="profile_info_txt_color">#EA1684</color>
 </resources>
